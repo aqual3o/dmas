@@ -1,7 +1,7 @@
-const sum      = require ("./sum");
-const multiply = require ("./multiply");
-const divide   = require ("./divide");
-const subtract = require ("./subtract");
+const sum      = require ("./maths/sum");
+const multiply = require ("./maths/multiply");
+const divide   = require ("./maths/divide");
+const subtract = require ("./maths/subtract");
 
 const dmas = {};
 

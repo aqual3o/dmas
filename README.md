@@ -15,9 +15,9 @@ npm i dmas
 ```
 const dmas = require ("dmas")
 
-let sum      = dmas.sum (2, 4);
+let sum      = dmas.sum      (2, 4);
 let multiply = dmas.multiply (2, 4);
-let divide   = dmas.divide (4, 2);
+let divide   = dmas.divide   (4, 2);
 let subtract = dmas.subtract (4, 2);
 ```
 

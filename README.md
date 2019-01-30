@@ -4,7 +4,7 @@ dmas is a Nodejs module that lets you do basic maths operations.
 
 ## Installation
 
-Use the npm to install dmas
+Use the node package manager (npm) to install dmas
 
 ```bash
 npm i dmas

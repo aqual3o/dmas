@@ -1,11 +1,14 @@
 {
   "name": "dmas",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Divison multiplication addition subtraction",
   "main": "dmas.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Shardul Malik",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords" : [
+	  "maths"
+  ]
 }

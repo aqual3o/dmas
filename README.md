@@ -13,7 +13,7 @@ npm i dmas
 ## Usage
 
 ```
-const dmas = require ("dmas")
+const dmas = require ("dmas");
 
 let sum      = dmas.sum      (2, 4);
 let multiply = dmas.multiply (2, 4);

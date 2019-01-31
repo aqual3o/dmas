@@ -5,9 +5,21 @@ const subtract = require ("./maths/subtract");
 
 const dmas = {};
 
-dmas.sum      = sum;
+/*
+ * sum related functions */
+dmas.sum      = sum.sum;
+dmas.sumArray = sum.sumArray;
+
+/*
+ * multiply related functions */
 dmas.multiply = multiply;
+
+/*
+ * divide related functions */
 dmas.divide   = divide;
+
+/*
+ * subtract related functions */
 dmas.subtract = subtract;
 
 module.exports = dmas;

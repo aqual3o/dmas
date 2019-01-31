@@ -20,7 +20,8 @@ let multiply = dmas.multiply (2, 4); //expected output --> 8
 let divide   = dmas.divide   (4, 2); //expected output --> 2
 let subtract = dmas.subtract (4, 2); //expected output --> 2
 
-let sumArray = dmas.sumArray ([2, 4, 6]); //expected output --> 12
+let sumArray      = dmas.sumArray      ([2, 4, 6]); //expected output --> 12
+let multiplyArray = dmas.multiplyArray ([2, 4, 6]); //expected output --> 48
 ```
 
 ## Contributing

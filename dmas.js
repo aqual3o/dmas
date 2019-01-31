@@ -12,7 +12,8 @@ dmas.sumArray = sum.sumArray;
 
 /*
  * multiply related functions */
-dmas.multiply = multiply;
+dmas.multiply      = multiply.multiply;
+dmas.multiplyArray = multiply.multiplyArray;
 
 /*
  * divide related functions */

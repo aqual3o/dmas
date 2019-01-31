@@ -19,10 +19,12 @@ npm i dmas
 ```
 const dmas = require ("dmas");
 
-let sum      = dmas.sum      (2, 4);
-let multiply = dmas.multiply (2, 4);
-let divide   = dmas.divide   (4, 2);
-let subtract = dmas.subtract (4, 2);
+let sum      = dmas.sum      (2, 4); //expected output --> 6
+let multiply = dmas.multiply (2, 4); //expected output --> 8
+let divide   = dmas.divide   (4, 2); //expected output --> 2
+let subtract = dmas.subtract (4, 2); //expected output --> 2
+
+let sumArray = dmas.sumArray ([2, 4, 6]); //expected output --> 12
 ```
 
 ## Contributing

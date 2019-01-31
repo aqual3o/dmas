@@ -2,7 +2,7 @@
 
 dmas is a Nodejs module that lets you do basic maths operations.
 
-These operation are natively avaialble in any language. You don't need this one.
+These operation are natively avaialble in any language. You don't really need this one (this was more of a practice module).
 
 Might turn into something useful one day.
 

@@ -26,6 +26,7 @@ let multiplyArray = dmas.multiplyArray ([2, 4, 6]); //expected output --> 48
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
 [Github repo of dmas](https://github.com/aqual3o/dmas)
 
 ## License

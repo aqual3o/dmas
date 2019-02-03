@@ -1,6 +1,6 @@
 {
   "name": "dmas",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Divison multiplication addition subtraction",
   "main": "dmas.js",
   "scripts": {

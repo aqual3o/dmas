@@ -2,6 +2,8 @@
 
 dmas is a Nodejs module that lets you do basic maths operations.
 
+You probably don't need this. Feel free to use it if you wish.
+
 ## Installation
 
 Use the node package manager (npm) to install dmas
